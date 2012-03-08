@@ -1,0 +1,1 @@
+Puppet Facter plugin that allows puppet variables to be defined in Cloudformation templates
